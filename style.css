@@ -76,6 +76,11 @@ body.dark .interface .titulo{
     color: #000;
 }
 
+body.dark .interface a:hover {   
+    color: #080808;
+    transform: scale(1.05);
+
+}
 /* .topo-do-site .txt-topo-site p {
     color: #fff;
     margin: 40px 0px;
