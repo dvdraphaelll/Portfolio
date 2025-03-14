@@ -4,5 +4,3 @@ trilho.addEventListener("click", ()=>{
     trilho.classList.toggle("dark")
     body.classList.toggle("dark")
 })
-
-alert("eu sou gay")
