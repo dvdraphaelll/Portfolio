@@ -81,9 +81,20 @@ body.dark .interface a:hover {
     transform: scale(1.05);
 
 }
-/* .topo-do-site .txt-topo-site p {
+
+body.dark .interface h3{
+    color: #000;
+}
+/* 
+.especialidades .especialidades-box {
     color: #fff;
-    margin: 40px 0px;
+    padding: 40px;
+    margin-top: 45px;
+    border-radius: 20px;
+    transform: .2s;
+}
+
+
 } */
 
 .drs-contato button {
@@ -254,6 +265,7 @@ section.especialidades .flex {
 
 .especialidades .especialidades-box h3 {
     font-size: 28px;
+    color: #fff;
     margin: 15px 0;
 }
 
